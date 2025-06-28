@@ -1,0 +1,7 @@
+[package]
+name = "coursera-rust-fundamentals"
+version = "0.1.0"
+edition = "2024"
+authors = ["Pavan Kumar Singh <privacywithpavan@gmail.com>"]
+
+[dependencies]
